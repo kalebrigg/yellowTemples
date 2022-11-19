@@ -21,11 +21,11 @@ To solve this problem we first begin with those profiles that are linked to a US
  * If every instance of birth/death information matches, prepare the data for upload to the database
  
 The above is an oversimplification of the process used for converting these yellow temple entry to green ones. To retrieve and process all of this data requires 
-API calls to Family Search's data and is done in accordance to the guidelines they have set for me. In this repository and specifically in yellowtemples.py and fullpipeline.py is an abstraction of the code used to perform these API calls, process and clean the data, and eventually autonomously update these database entries. Many different variations and versions of this code have been written as Family Search's criteria and goals have changed. 
+API calls to Family Search's database and is done in accordance to the guidelines they have set for me. In this repository and specifically in yellowtemples.py and fullpipeline.py is an abstraction of the code used to perform these API calls, process and clean the data, and eventually autonomously update these database entries. Many different variations and versions of this code have been written as Family Search's criteria and goals have changed. 
 
 ## Results
 
-This process has been used to successfully update and fix over 10,000 people entries for FamilySearch’s database. My algorithm will continue to be used in the future and is estimated to autonomously correct 2 million database edits. I hope to be able to additionally identify database person entries that can be processed manually by volunteers within my organization to correct the entries by hand that cannot be done with certainty autonomously. Currently I am coauthoring an academic paper to be published that will give further detail and data to my project. 
+This process has been used to successfully update and fix over 10,000 people entries for FamilySearch’s database. My algorithm will continue to be used in the future and is estimated to autonomously correct 2 million database edits. Additionally, I hope to be able to identify database person entries that can be processed manually by volunteers within my organization to correct the entries that cannot be done accurately by autonomous means. Currently I am coauthoring an academic paper to be published that will give further detail and data to my project. 
 
 
 
