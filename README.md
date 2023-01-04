@@ -30,7 +30,7 @@ This process has been used to successfully update and fix over 10,000 people ent
 
 ## Contact
 
-Kaleb Rigg - kaleb2323rigg@gmail.com 
+Kaleb Rigg - kalebriggdev@gmail.com 
 
 Project Link: [https://github.com/kalebrigg/MeetAndEat](https://github.com/kalebrigg/MeetAndEat.git)
 
