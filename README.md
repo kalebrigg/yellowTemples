@@ -28,4 +28,40 @@ API calls to Family Search's database and is done in accordance to the guideline
 This process has been used to successfully update and fix over 10,000 people entries for FamilySearch’s database. My algorithm will continue to be used in the future and is estimated to autonomously correct 2 million database edits. Additionally, I hope to be able to identify database person entries that can be processed manually by volunteers within my organization to correct the entries that cannot be done accurately by autonomous means. Currently I am coauthoring an academic paper to be published that will give further detail and data to my project. 
 
 
+## Contact
+
+Kaleb Rigg - kaleb2323rigg@gmail.com 
+
+Project Link: [https://github.com/kalebrigg/MeetAndEat](https://github.com/kalebrigg/MeetAndEat.git)
+
+
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[contributors-shield]: https://img.shields.io/github/contributors/NicolasBrondin/basic-readme-template.svg?style=flat-square
+[contributors-url]: https://github.com/NicolasBrondin/basic-readme-template/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/NicolasBrondin/basic-readme-template.svg?style=flat-square
+[forks-url]: https://github.com/NicolasBrondin/basic-readme-template/network/members
+[stars-shield]: https://img.shields.io/github/stars/NicolasBrondin/basic-readme-template.svg?style=flat-square
+[stars-url]: https://github.com/NicolasBrondin/basic-readme-template/stargazers
+[issues-shield]: https://img.shields.io/github/issues/NicolasBrondin/basic-readme-template.svg?style=flat-square
+[issues-url]: https://github.com/NicolasBrondin/basic-readme-template/issues
+[license-shield]: https://img.shields.io/github/license/NicolasBrondin/basic-readme-template.svg?style=flat-square
+[license-url]: https://github.com/NicolasBrondin/basic-readme-template/blob/master/LICENSE.txt
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
+[linkedin-url]: https://linkedin.com/in/othneildrew
+[product-screenshot]: docs/cover.jpg
+Footer
+© 2022 GitHub, Inc.
+Footer navigation
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
 
