@@ -32,8 +32,6 @@ This process has been used to successfully update and fix over 10,000 people ent
 
 Kaleb Rigg - kalebriggdev@gmail.com 
 
-Project Link: [https://github.com/kalebrigg/MeetAndEat](https://github.com/kalebrigg/MeetAndEat.git)
-
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
